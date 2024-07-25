@@ -15,6 +15,7 @@ yabai -m config window_gap 6
 yabai -m config mouse_follows_focus on
 
 # modifier for clicking and dragging with mouse
+# alt = option on MacOS
 yabai -m config mouse_modifier alt
 # set modifier + left-click drag to move window
 yabai -m config mouse_action1 move
